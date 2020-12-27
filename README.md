@@ -7,3 +7,6 @@ Schwarz L., Keler A., Krisp JM. (20xx): Work in progress
 
 For further information please contact us via e-mail:
 lucas.schwarz@fu-berlin.de
+
+The data is provided as shapefiles.
+Cluster_Data contains data about each identified segment as well as the cluster id.
